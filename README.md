@@ -62,10 +62,7 @@
     <hr size="3">
   <h3>Skills</h3>
   <table cellspacing="1">
-    <tr>
-    <td><table cellspacing="5">
-          <tr>
-            <td>Public Speaking</td>
+            <tr><td>Public Speaking</td>
             <td>✔✔✔✔✔</td>
           </tr>
           <tr>
@@ -75,8 +72,7 @@
             <td>Web Development</td>
             <td>✔✔</td>
           </tr>
-        </table></td>
-       <td><table cellspacing="5">
+       
           <tr>
             <td>English</td>
             <td>✔✔✔✔</td>
@@ -88,6 +84,4 @@
             <td>Data Anlaytics</td>
             <td>✔✔✔✔</td>
           </tr>
-        </table></td>
-    </tr>
-  </table>
+        </table>

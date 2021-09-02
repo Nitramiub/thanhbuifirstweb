@@ -69,31 +69,17 @@
   <h3>Skills</h3>
   <table cellspacing="1">
     <tr>
-    <td><table cellspacing="1">
-          <tr>
-            <td>Public Speaking</td>
+      <td>Public Speaking</td>
             <td>✔✔✔✔✔</td>
-          </tr>
-          <tr>
             <td>Excel</td>
             <td>✔✔✔✔</td>
-          <tr>
             <td>Web Development</td>
-            <td>✔✔</td>
-          </tr>
-        </table></td>
-       <td><table cellspacing="1">
-          <tr>
+      <td>✔✔</td>
             <td>English</td>
             <td>✔✔✔✔</td>
-          </tr>
-          <tr>
             <td>Communication</td>
             <td>✔✔✔✔✔</td>
-          <tr>
             <td>Data Anlaytics</td>
             <td>✔✔✔✔</td>
-          </tr>
-        </table></td>
     </tr>
   </table>

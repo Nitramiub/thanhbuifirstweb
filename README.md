@@ -68,8 +68,7 @@
     <hr size="3">
   <h3>Skills</h3>
   <table cellspacing="1">
-    <tr>
-      <td>Public Speaking</td>
+    <tr><td>Public Speaking</td>
       <td>✔✔✔✔✔</td></tr>
             <tr><td>Excel</td>
             <td>✔✔✔✔</td></tr>

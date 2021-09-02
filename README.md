@@ -68,7 +68,7 @@
     <hr size="3">
   <h3>Skills</h3>
   <table>
-   <td>Public Speaking</td>
+   <tr><td>Public Speaking</td>
       <td>✔✔✔✔✔</td></tr>
             <tr><td>Excel</td>
             <td>✔✔✔✔</td></tr>
@@ -80,5 +80,4 @@
             <td>✔✔✔✔✔</td></tr>
             <tr><td>Data Anlaytics</td>
             <td>✔✔✔✔</td></tr>
-    </tr>
   </table>

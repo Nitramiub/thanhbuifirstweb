@@ -1,10 +1,4 @@
 <html lang="en" dir="ltr">
-
-<head>
-  <meta charset="utf-8">
-  <title>🛩Thanhbui</title>
-</head>
-
 <body>
   <hr size="3" nodeshade />
   <h1>Hello! Welcome to my first website</h1>

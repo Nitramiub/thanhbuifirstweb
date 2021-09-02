@@ -67,7 +67,7 @@
   <h3><a href="contactme.html">Contact me</a></h3>
     <hr size="3">
   <h3>Skills</h3>
-  <table cellspacing="1">
+  <table>
     <tr><td>Public Speaking</td>
       <td>✔✔✔✔✔</td></tr>
             <tr><td>Excel</td>

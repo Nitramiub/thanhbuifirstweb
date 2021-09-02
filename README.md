@@ -69,7 +69,7 @@
   <h3>Skills</h3>
   <table cellspacing="1">
     <tr>
-    <td><table cellspacing="5">
+    <td><table cellspacing="1">
           <tr>
             <td>Public Speaking</td>
             <td>✔✔✔✔✔</td>
@@ -82,7 +82,7 @@
             <td>✔✔</td>
           </tr>
         </table></td>
-       <td><table cellspacing="5">
+       <td><table cellspacing="1">
           <tr>
             <td>English</td>
             <td>✔✔✔✔</td>
@@ -97,7 +97,3 @@
         </table></td>
     </tr>
   </table>
-
-</body>
-
-</html>

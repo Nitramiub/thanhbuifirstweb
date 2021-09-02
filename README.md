@@ -67,16 +67,33 @@
   <h3><a href="contactme.html">Contact me</a></h3>
     <hr size="3">
   <h3>Skills</h3>
-  <table><td>Public Speaking</td>
-      <td>✔✔✔✔✔</td>
-            <td>Excel/td>
+  <table cellspacing="1">
+    <tr>
+    <td><table cellspacing="5">
+          <tr>
+            <td>Public Speaking</td>
+            <td>✔✔✔✔✔</td>
+          </tr>
+          <tr>
+            <td>Excel</td>
             <td>✔✔✔✔</td>
+          <tr>
             <td>Web Development</td>
-              <td>✔✔</td>
-           <td>English</td>
+            <td>✔✔</td>
+          </tr>
+        </table></td>
+       <td><table cellspacing="5">
+          <tr>
+            <td>English</td>
             <td>✔✔✔✔</td>
+          </tr>
+          <tr>
             <td>Communication</td>
             <td>✔✔✔✔✔</td>
+          <tr>
             <td>Data Anlaytics</td>
             <td>✔✔✔✔</td>
+          </tr>
+        </table></td>
+    </tr>
   </table>
